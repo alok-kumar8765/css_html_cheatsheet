@@ -1,6 +1,3 @@
-Below is your fully-formatted, polished, **copy-and-paste ready Markdown README** — complete with **badges, 2-line description, table of contents, HTML + CSS Grid cheat sheets**, and clean formatting.
-
----
 
 # 🚀 **The Ultimate Web Dev Cheat Sheet: HTML + CSS Grid**
 
